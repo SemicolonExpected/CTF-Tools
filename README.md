@@ -8,6 +8,12 @@
 ## Password Cracking
 - [THE ONE RULE](https://github.com/NotSoSecure/password_cracking_rules) for hashcat
 - [Another ONE RULE](https://github.com/stealthsploit/Optimised-hashcat-Rule)
+## Scanning and Recon
+- dirbuster
+- `nc <host> <port>`
+- `nc -u <host> <port>`
+- [interesting netcat commands](https://phoenixnap.com/kb/nc-command)
+- `telnet <host> <port>`
 ## Stegonography
 - StegHide
 - [FotoForensics](https://fotoforensics.com/)
