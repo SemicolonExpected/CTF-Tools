@@ -5,6 +5,8 @@
 - https://tools.keycdn.com/geo
 ## Magnetic Card Decoder
 - [Magstripper](https://sourceforge.net/projects/magstripper/) decodes magnetic cards given a waveform
+## Password Cracking
+- [THE ONE RULE](https://github.com/NotSoSecure/password_cracking_rules) for hashcat
 ## Stegonography
 - StegHide
 - [FotoForensics](https://fotoforensics.com/)
