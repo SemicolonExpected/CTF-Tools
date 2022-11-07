@@ -6,6 +6,7 @@
 ## Magnetic Card Decoder
 - [Magstripper](https://sourceforge.net/projects/magstripper/) decodes magnetic cards given a waveform
 ## Password Cracking
+- [Hashcat sample rules](https://github.com/hashcat/hashcat/tree/master/rules) see leetspeak rule OwO
 - [THE ONE RULE](https://github.com/NotSoSecure/password_cracking_rules) for hashcat
 - [Another ONE RULE](https://github.com/stealthsploit/Optimised-hashcat-Rule)
 ## Scanning and Recon
