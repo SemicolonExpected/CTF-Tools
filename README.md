@@ -2,7 +2,7 @@
 ## Misc
 - CyberChef
 - MOSINT
-- NEXFIL
+- NEXFIL `python3 nexfil.py -u <username>`
 ## Ip Location Finder
 - https://tools.keycdn.com/geo
 ## Magnetic Card Decoder
