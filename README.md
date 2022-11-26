@@ -1,6 +1,8 @@
 # CTF-Tools
 ## Misc
 - CyberChef
+- MOSINT
+- NEXFIL
 ## Ip Location Finder
 - https://tools.keycdn.com/geo
 ## Magnetic Card Decoder
