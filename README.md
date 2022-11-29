@@ -5,6 +5,7 @@
 - Maigret `maigret <username> -a`
 - NEXFIL `python3 nexfil.py -u <username>`
 - [RSACTFTool](https://github.com/RsaCtfTool/RsaCtfTool) `python RsaCtfTool -n <n> -e <e> --uncipher <c>`
+- [RSA Calculator](https://www.tausquared.net/pages/ctf/rsa.html)
 ## Ip Location Finder
 - https://tools.keycdn.com/geo
 ## Magnetic Card Decoder
