@@ -4,7 +4,7 @@
 - MOSINT
 - Maigret `maigret <username> -a`
 - NEXFIL `python3 nexfil.py -u <username>`
-- [RSACTFTool](https://github.com/RsaCtfTool/RsaCtfTool) `python RsaCtfTool -n <n> -e <e> --uncipher <c>
+- [RSACTFTool](https://github.com/RsaCtfTool/RsaCtfTool) `python RsaCtfTool -n <n> -e <e> --uncipher <c>`
 ## Ip Location Finder
 - https://tools.keycdn.com/geo
 ## Magnetic Card Decoder
