@@ -2,6 +2,7 @@
 ## Misc
 - CyberChef
 - MOSINT
+- Maigret `maigret <username> -a`
 - NEXFIL `python3 nexfil.py -u <username>`
 ## Ip Location Finder
 - https://tools.keycdn.com/geo
